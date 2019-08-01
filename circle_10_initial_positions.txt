@@ -1,0 +1,36 @@
+
+------ Agents -------
+<Agent p_x = "0" p_y = "10" />
+<Agent p_x = "-5.87785" p_y = "8.09017" />
+<Agent p_x = "-9.51057" p_y = "3.09017" />
+<Agent p_x = "-9.51057" p_y = "-3.09017" />
+<Agent p_x = "-5.87785" p_y = "-8.09017" />
+<Agent p_x = "2.07123e-12" p_y = "-10" />
+<Agent p_x = "5.87785" p_y = "-8.09017" />
+<Agent p_x = "9.51057" p_y = "-3.09017" />
+<Agent p_x = "9.51057" p_y = "3.09017" />
+<Agent p_x = "5.87785" p_y = "8.09017" />
+
+------ Targets -------
+<Target Point1 p_x = "-0" p_y = "-10" />
+<Target Point2 p_x = "-0" p_y = "-10" />
+<Target Point1 p_x = "5.87785" p_y = "-8.09017" />
+<Target Point2 p_x = "5.87785" p_y = "-8.09017" />
+<Target Point1 p_x = "9.51057" p_y = "-3.09017" />
+<Target Point2 p_x = "9.51057" p_y = "-3.09017" />
+<Target Point1 p_x = "9.51057" p_y = "3.09017" />
+<Target Point2 p_x = "9.51057" p_y = "3.09017" />
+<Target Point1 p_x = "5.87785" p_y = "8.09017" />
+<Target Point2 p_x = "5.87785" p_y = "8.09017" />
+<Target Point1 p_x = "-2.07123e-12" p_y = "10" />
+<Target Point2 p_x = "-2.07123e-12" p_y = "10" />
+<Target Point1 p_x = "-5.87785" p_y = "8.09017" />
+<Target Point2 p_x = "-5.87785" p_y = "8.09017" />
+<Target Point1 p_x = "-9.51057" p_y = "3.09017" />
+<Target Point2 p_x = "-9.51057" p_y = "3.09017" />
+<Target Point1 p_x = "-9.51057" p_y = "-3.09017" />
+<Target Point2 p_x = "-9.51057" p_y = "-3.09017" />
+<Target Point1 p_x = "-5.87785" p_y = "-8.09017" />
+<Target Point2 p_x = "-5.87785" p_y = "-8.09017" />
+
+------ Walls -------
